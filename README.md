@@ -12,3 +12,5 @@ List of exercise:
 8. Land/Water masking
 
 Some of the tutorial content were taken form Google Earth Engine Workshop 2019 Hands on Sessions by the Google Earth Outreach team. Make sure to cite all of the authors properly when using these scripts.
+
+[![DOI](https://zenodo.org/badge/243201297.svg)](https://zenodo.org/badge/latestdoi/243201297)
