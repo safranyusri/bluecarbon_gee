@@ -5,7 +5,7 @@ List of exercise:
 1. GEE interface and simple javascript
 2. Exploring GEE catalogue and selecting dataset
 3. Displaying an image collection
-4. Displaing landsat image collections
+4. Displaying landsat image collections
 5. Creating Landsat 8 Raw and TOA Reflectance cloud free mosaic composite
 6. Calculating Normalized Difference Vegetation Index (NDVI)
 7. Creating Landsat 8 Surface Reflectance cloud free mosaic composite
